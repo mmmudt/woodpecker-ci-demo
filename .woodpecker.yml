@@ -1,4 +1,4 @@
-pipeline:
+steps:
   run-one:
     image: busybox
     group: first
